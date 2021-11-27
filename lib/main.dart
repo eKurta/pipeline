@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-   
         primarySwatch: Colors.blue,
       ),
       home: PocetnaStrana(),
@@ -26,10 +25,6 @@ class PocetnaStrana extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
-        child: Center(child:Text('Neki text'))
-      )
-    );
+    return Scaffold(body: SafeArea(child: Center(child: Text('Text iz app2'))));
   }
 }
