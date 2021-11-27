@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "371420083449",
+    "project_id": "pipeline-a9677",
+    "storage_bucket": "pipeline-a9677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371420083449:android:82f686c8a729a9b8f4de28",
+        "android_client_info": {
+          "package_name": "com.example.pipeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371420083449-hon6n98dsomfebd42dt1uac7ja5t49jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATp_UbRqlvHMAlk-NtD4tsMNjQLwQCKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371420083449-hon6n98dsomfebd42dt1uac7ja5t49jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371420083449:android:8304cd742cc20959f4de28",
+        "android_client_info": {
+          "package_name": "pipeline.kurta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371420083449-hon6n98dsomfebd42dt1uac7ja5t49jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATp_UbRqlvHMAlk-NtD4tsMNjQLwQCKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371420083449-hon6n98dsomfebd42dt1uac7ja5t49jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
